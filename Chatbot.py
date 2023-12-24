@@ -6,7 +6,7 @@ fileopen = open("API.txt","r")
 API = fileopen.read()
 fileopen.close()
 
-openai.api_key = API                                     #providing security to api and chat_log file
+openai.api_key = API
 completion =openai.Completion()
 
 def Answer(question):
