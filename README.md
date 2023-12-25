@@ -25,9 +25,9 @@ This Chatbot is built using Python Programing Language.And also Integrated an Op
                 
                 3. look for the lock icon at the left-hand corner of the homepage.
                 
-                4. When you move your mouse cursor toward that lock icon, you will be able to                     see “API Keys” written beside that icon. Click on it.
+                4. When you move your mouse cursor toward that lock icon, you will be able to see “API Keys” written beside that icon. Click on it.
                 
-                5. Once clicked, you will be directed to a page where you can view your                           existing API keys (If any). Here, you will also be able to create a new                        secret key.
+                5. Once clicked, you will be directed to a page where you can view your existing API keys (If any). Here, you will also be able to create a new secret key.
                 
                 6. Click on the “Create new secret key” button.
 
