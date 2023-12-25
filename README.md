@@ -17,7 +17,7 @@ This Chatbot is built using Python Programing Language.And also Integrated an Op
 5)Now Create the API key and Paste in the "API.txt" file.
         
      How to Get an OpenAI API Key ?
-               To get an OpenAI API key, you will need to have an OpenAI account. You can                     sign up using your email address, google account, Microsoft account, or Apple ID. Once you have created an account, you can follow these steps to get an OpenAI Key:
+     To get an OpenAI API key,you will need to have an OpenAI account.You can sign up using your email address, google account, Microsoft account, or Apple ID. Once you have created an account, you can follow these steps to get an OpenAI Key:
                 
                 1. Go to the OpenAI Platform website at platform.openai.com.
                 
