@@ -8,7 +8,7 @@ This Chatbot is built using Python Programing Language.And also Integrated an Op
 
 1)Install Python in your system with latest version.
 
-2)Go to teminal and execute following comands one by one :
+2)Go to teminal and execute following comand:
 
         pip install openai
 
